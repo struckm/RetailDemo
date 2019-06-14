@@ -1,0 +1,18 @@
+﻿2019-06-13 21:44:31.594 INFO  DefaultFactory Logging to 'C:\code\RetailDemo\Sales\bin\Debug\netcoreapp2.2\' with level Info
+2019-06-13 21:44:31.929 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-06-14'.
+
+2019-06-13 21:44:41.840 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = ed403144-d049-45ec-9c31-6b32a78f9d93
+2019-06-13 21:44:46.953 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = d987850d-e62a-437e-a193-78e6ceb7b5e2
+2019-06-13 21:44:48.353 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 1da0e743-2263-4a86-9814-3f58958bf56e
+2019-06-13 21:44:48.832 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = b591bf6b-b8fc-4871-9567-0f1d7bb36d22
+2019-06-13 21:44:48.996 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 555426f0-f9ed-417f-a47e-f3237f32ae95
+2019-06-13 21:44:49.167 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 3003240a-b959-4b58-8cc5-06f6718bf799
+2019-06-13 21:44:49.321 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7b7e3e5e-fd9d-4297-8330-09c6de62e3e9
+2019-06-13 21:44:49.473 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 1959efbd-ac98-486d-939d-b76e76ef5fba
+2019-06-13 21:44:49.637 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 4eba7def-0f27-449b-8c77-2ffd40036518
+2019-06-13 21:44:49.790 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 182a4a2d-9dc5-4bd9-acfb-a0b5a9426f61
+2019-06-13 21:44:49.941 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = cab011f3-f633-4f50-a6da-c161c4583cbf
+2019-06-13 21:44:50.104 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 5577e1b8-69ba-4281-bc63-19afbeab5380
+2019-06-13 21:44:50.269 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 1923f51e-f794-4e6a-b1c4-545f8e962e13
+2019-06-13 21:44:50.430 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 057aba9d-c6a9-4973-b3f2-0c56504f29aa
+2019-06-13 21:44:50.586 INFO  Sales.PlaceOrderHandler Received PlaceOrder, OrderId = 7c7a309f-ff3c-49b1-8b72-6be235b6a33f

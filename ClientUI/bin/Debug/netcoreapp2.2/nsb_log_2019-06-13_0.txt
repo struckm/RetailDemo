@@ -1,0 +1,51 @@
+﻿2019-06-13 20:15:51.044 INFO  DefaultFactory Logging to 'C:\code\RetailDemo\ClientUI\bin\Debug\netcoreapp2.2\' with level Info
+2019-06-13 20:15:51.327 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-06-14'.
+
+2019-06-13 20:16:08.835 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-06-13 20:16:08.854 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-06-13 21:06:47.377 INFO  DefaultFactory Logging to 'C:\code\RetailDemo\ClientUI\bin\Debug\netcoreapp2.2\' with level Info
+2019-06-13 21:06:47.704 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-06-14'.
+
+2019-06-13 21:06:47.952 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:06:50.442 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = fa65d3fb-8869-4e21-8a8b-f0c08fb9a73a
+2019-06-13 21:06:50.587 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:06:50.698 INFO  ClientUI.PlaceOrderHandler Received PlaceOrder, OrderId = fa65d3fb-8869-4e21-8a8b-f0c08fb9a73a
+2019-06-13 21:07:46.586 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = e131ae0f-6366-48ff-bc94-82051f0e5fd1
+2019-06-13 21:07:46.599 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:07:46.619 INFO  ClientUI.PlaceOrderHandler Received PlaceOrder, OrderId = e131ae0f-6366-48ff-bc94-82051f0e5fd1
+2019-06-13 21:09:27.660 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2019-06-13 21:09:27.677 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2019-06-13 21:44:31.559 INFO  DefaultFactory Logging to 'C:\code\RetailDemo\ClientUI\bin\Debug\netcoreapp2.2\' with level Info
+2019-06-13 21:44:31.902 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2019-06-14'.
+
+2019-06-13 21:44:32.161 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:41.554 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = ed403144-d049-45ec-9c31-6b32a78f9d93
+2019-06-13 21:44:41.688 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:46.919 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = d987850d-e62a-437e-a193-78e6ceb7b5e2
+2019-06-13 21:44:46.931 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:48.328 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 1da0e743-2263-4a86-9814-3f58958bf56e
+2019-06-13 21:44:48.335 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:48.809 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = b591bf6b-b8fc-4871-9567-0f1d7bb36d22
+2019-06-13 21:44:48.816 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:48.973 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 555426f0-f9ed-417f-a47e-f3237f32ae95
+2019-06-13 21:44:48.980 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:49.138 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 3003240a-b959-4b58-8cc5-06f6718bf799
+2019-06-13 21:44:49.145 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:49.288 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 7b7e3e5e-fd9d-4297-8330-09c6de62e3e9
+2019-06-13 21:44:49.296 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:49.453 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 1959efbd-ac98-486d-939d-b76e76ef5fba
+2019-06-13 21:44:49.461 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:49.618 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 4eba7def-0f27-449b-8c77-2ffd40036518
+2019-06-13 21:44:49.625 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:49.768 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 182a4a2d-9dc5-4bd9-acfb-a0b5a9426f61
+2019-06-13 21:44:49.776 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:49.919 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = cab011f3-f633-4f50-a6da-c161c4583cbf
+2019-06-13 21:44:49.926 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:50.083 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 5577e1b8-69ba-4281-bc63-19afbeab5380
+2019-06-13 21:44:50.090 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:50.248 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 1923f51e-f794-4e6a-b1c4-545f8e962e13
+2019-06-13 21:44:50.256 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:50.413 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 057aba9d-c6a9-4973-b3f2-0c56504f29aa
+2019-06-13 21:44:50.421 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2019-06-13 21:44:50.563 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 7c7a309f-ff3c-49b1-8b72-6be235b6a33f
+2019-06-13 21:44:50.568 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.

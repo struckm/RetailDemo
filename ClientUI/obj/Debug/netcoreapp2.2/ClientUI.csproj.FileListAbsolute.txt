@@ -1,0 +1,14 @@
+C:\code\RetailDemo\ClientUI\bin\Debug\netcoreapp2.2\ClientUI.deps.json
+C:\code\RetailDemo\ClientUI\bin\Debug\netcoreapp2.2\ClientUI.runtimeconfig.json
+C:\code\RetailDemo\ClientUI\bin\Debug\netcoreapp2.2\ClientUI.runtimeconfig.dev.json
+C:\code\RetailDemo\ClientUI\bin\Debug\netcoreapp2.2\ClientUI.dll
+C:\code\RetailDemo\ClientUI\obj\Debug\netcoreapp2.2\ClientUI.csprojAssemblyReference.cache
+C:\code\RetailDemo\ClientUI\obj\Debug\netcoreapp2.2\ClientUI.csproj.CoreCompileInputs.cache
+C:\code\RetailDemo\ClientUI\obj\Debug\netcoreapp2.2\ClientUI.AssemblyInfoInputs.cache
+C:\code\RetailDemo\ClientUI\obj\Debug\netcoreapp2.2\ClientUI.AssemblyInfo.cs
+C:\code\RetailDemo\ClientUI\bin\Debug\netcoreapp2.2\ClientUI.pdb
+C:\code\RetailDemo\ClientUI\obj\Debug\netcoreapp2.2\ClientUI.dll
+C:\code\RetailDemo\ClientUI\obj\Debug\netcoreapp2.2\ClientUI.pdb
+C:\code\RetailDemo\ClientUI\bin\Debug\netcoreapp2.2\Messages.dll
+C:\code\RetailDemo\ClientUI\bin\Debug\netcoreapp2.2\Messages.pdb
+C:\code\RetailDemo\ClientUI\obj\Debug\netcoreapp2.2\ClientUI.csproj.CopyComplete

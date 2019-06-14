@@ -1,0 +1,14 @@
+C:\code\RetailDemo\Sales\bin\Debug\netcoreapp2.2\Sales.deps.json
+C:\code\RetailDemo\Sales\bin\Debug\netcoreapp2.2\Sales.runtimeconfig.json
+C:\code\RetailDemo\Sales\bin\Debug\netcoreapp2.2\Sales.runtimeconfig.dev.json
+C:\code\RetailDemo\Sales\bin\Debug\netcoreapp2.2\Sales.dll
+C:\code\RetailDemo\Sales\obj\Debug\netcoreapp2.2\Sales.csproj.CoreCompileInputs.cache
+C:\code\RetailDemo\Sales\obj\Debug\netcoreapp2.2\Sales.AssemblyInfoInputs.cache
+C:\code\RetailDemo\Sales\obj\Debug\netcoreapp2.2\Sales.AssemblyInfo.cs
+C:\code\RetailDemo\Sales\bin\Debug\netcoreapp2.2\Sales.pdb
+C:\code\RetailDemo\Sales\bin\Debug\netcoreapp2.2\Messages.dll
+C:\code\RetailDemo\Sales\bin\Debug\netcoreapp2.2\Messages.pdb
+C:\code\RetailDemo\Sales\obj\Debug\netcoreapp2.2\Sales.csprojAssemblyReference.cache
+C:\code\RetailDemo\Sales\obj\Debug\netcoreapp2.2\Sales.csproj.CopyComplete
+C:\code\RetailDemo\Sales\obj\Debug\netcoreapp2.2\Sales.dll
+C:\code\RetailDemo\Sales\obj\Debug\netcoreapp2.2\Sales.pdb
